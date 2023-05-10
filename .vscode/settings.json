@@ -1,0 +1,10 @@
+{
+    "makefile.configurations": [
+        {
+            "name": "HalloWorld",
+            "makeArgs": [
+                "WORKSPACE=${workspaceFolder}/.."
+            ]
+        }
+    ]
+}
